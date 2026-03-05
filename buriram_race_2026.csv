@@ -1,0 +1,560 @@
+rider_number,rider_name,team,manufacturer,front_tyre,rear_tyre,lap,lap_time,lap_s,t1_s,t2_s,t3_s,t4_s,speed
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,1,1'31.525,,19.498,25.838,22.193,23.996,334.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,2,1'30.703,,18.485,25.756,22.473,23.989,336.4
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,3,1'30.656,,18.545,25.894,22.263,23.954,336.4
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,4,1'30.684,,18.469,26.089,22.164,23.962,335.4
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,5,1'30.487,,18.387,25.834,22.184,24.082,336.4
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,6,1'30.597,,18.442,25.951,22.183,24.021,336.4
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,7,1'31.083,,18.607,26.134,22.159,24.183,332.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,8,1'30.744,,18.511,25.978,22.173,24.082,332.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,9,1'30.539,,18.507,25.871,22.162,23.999,332.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,10,1'30.768,,18.513,25.961,22.165,24.129,332.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,11,1'31.115,,18.534,26.007,22.418,24.156,332.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,12,1'31.003,,18.502,25.949,22.229,24.323,333.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,13,1'30.982,,18.475,26.034,22.27,24.203,335.4
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,14,1'31.197,,18.557,26.137,22.259,24.244,333.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,15,1'31.165,,18.495,26.153,22.253,24.264,333.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,16,1'31.176,,18.524,25.984,22.349,24.319,334.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,17,1'31.193,,18.499,26.117,22.32,24.257,333.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,18,1'31.352,,18.583,26.082,22.292,24.395,331.2
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,19,1'31.344,,18.6,26.06,22.346,24.338,335.4
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,20,1'31.741,,18.658,26.224,22.425,24.434,334.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,21,1'31.773,,18.719,26.198,22.472,24.384,334.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,22,1'32.035,,18.755,26.191,22.553,24.536,333.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,23,1'32.150,,18.752,26.309,22.635,24.454,333.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,24,1'32.592,,18.938,26.564,22.556,24.534,329.2
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,25,1'33.435,,19.062,26.812,22.68,24.881,322.3
+72,Marco BEZZECCHI,Aprilia Racing,Aprilia,Soft,Medium,26,1'34.231,,19.512,26.986,22.681,25.052,312.1
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,1,1'33.400,,20.226,26.586,22.463,24.125,311.2
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,2,1'31.235,,18.712,26.12,22.356,24.047,336.4
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,3,1'30.923,,18.586,26.094,22.214,24.029,329.2
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,4,1'30.893,,18.556,25.995,22.236,24.106,333.3
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,5,1'30.657,,18.581,25.953,22.2,23.923,334.3
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,6,1'30.914,,18.568,26.15,22.15,24.046,334.3
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,7,1'31.016,,18.523,26.078,22.256,24.159,334.3
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,8,1'30.986,,18.557,26.043,22.229,24.157,334.3
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,9,1'31.204,,18.653,26.176,22.216,24.159,331.2
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,10,1'31.622,,18.748,26.35,22.261,24.263,333.3
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,11,1'30.982,,18.604,26.051,22.273,24.054,330.2
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,12,1'31.108,,18.578,26.061,22.207,24.262,329.2
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,13,1'31.012,,18.582,26.062,22.239,24.129,330.2
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,14,1'31.041,,18.603,26.06,22.225,24.153,331.2
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,15,1'31.080,,18.586,26.083,22.246,24.165,330.2
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,16,1'31.302,,18.582,26.215,22.318,24.187,330.2
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,17,1'31.539,,18.733,26.238,22.344,24.224,328.2
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,18,1'31.256,,18.627,26.139,22.202,24.288,330.2
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,19,1'31.228,,18.576,26.111,22.375,24.166,332.3
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,20,1'31.633,,18.789,26.169,22.408,24.267,332.3
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,21,1'32.121,,18.741,26.541,22.45,24.389,332.3
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,22,1'32.415,,18.735,26.648,22.493,24.539,332.3
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,23,1'32.136,,18.765,26.419,22.574,24.378,333.3
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,24,1'32.956,,19.099,26.576,22.676,24.605,319.5
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,25,1'33.431,,19.228,26.813,22.746,24.644,314.8
+37,Pedro ACOSTA,Red Bull KTM Factory Racing,Ktm,Soft,Medium,26,1'33.723,,19.319,27.196,22.729,24.479,305
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,1,1'32.262,,19.888,26.196,22.23,23.948,331.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,2,1'30.970,,18.611,26.11,22.221,24.028,333.3
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,3,1'30.627,,18.58,25.987,22.1,23.96,333.3
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,4,1'30.788,,18.61,26.05,22.097,24.031,334.3
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,5,1'30.689,,18.549,25.992,22.076,24.072,332.3
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,6,1'30.647,,18.457,25.963,22.123,24.104,334.3
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,7,1'30.914,,18.604,26.092,22.098,24.12,329.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,8,1'30.807,,18.538,26.104,22.103,24.062,335.4
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,9,1'30.933,,18.589,26.121,22.116,24.107,329.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,10,1'31.007,,18.583,26.052,22.193,24.179,329.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,11,1'31.078,,18.565,26.13,22.247,24.136,331.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,12,1'31.023,,18.509,26.115,22.174,24.225,331.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,13,1'31.336,,18.575,26.234,22.235,24.292,332.3
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,14,1'31.422,,18.615,26.295,22.251,24.261,330.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,15,1'31.607,,18.644,26.375,22.236,24.352,329.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,16,1'31.381,,18.554,26.249,22.192,24.386,332.3
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,17,1'31.495,,18.598,26.311,22.242,24.344,330.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,18,1'31.557,,18.629,26.309,22.239,24.38,330.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,19,1'31.826,,18.609,26.436,22.367,24.414,331.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,20,1'32.248,,18.779,26.465,22.534,24.47,326.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,21,1'32.314,,18.817,26.521,22.492,24.484,327.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,22,1'32.449,,18.89,26.596,22.485,24.478,328.2
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,23,1'33.184,,18.865,27.105,22.624,24.59,325.3
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,24,1'33.517,,19.098,27.121,22.653,24.645,321.4
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,25,1'34.178,,19.379,27.388,22.653,24.758,315.7
+25,Raul FERNANDEZ,Trackhouse MotoGP Team,Aprilia,Soft,Medium,26,1'35.270,,19.814,27.425,22.852,25.179,301.6
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,1,1'32.900,,19.934,26.358,22.471,24.137,320.4
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,2,1'31.455,,18.733,26.06,22.468,24.194,325.3
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,3,1'30.933,,18.513,26.035,22.306,24.079,332.3
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,4,1'30.713,,18.352,26.089,22.246,24.026,338.5
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,5,1'30.890,,18.575,26.032,22.243,24.04,334.3
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,6,1'30.884,,18.562,26.097,22.18,24.045,335.4
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,7,1'31.148,,18.574,26.147,22.278,24.149,333.3
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,8,1'31.069,,18.554,26.056,22.243,24.216,334.3
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,9,1'31.253,,18.64,26.108,22.236,24.269,335.4
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,10,1'32.057,,18.683,26.582,22.4,24.392,334.3
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,11,1'31.414,,18.502,26.182,22.517,24.213,325.3
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,12,1'31.565,,18.494,26.155,22.391,24.525,326.2
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,13,1'31.414,,18.566,26.278,22.308,24.262,337.5
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,14,1'31.299,,18.547,26.167,22.372,24.213,336.4
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,15,1'31.190,,18.516,26.184,22.307,24.183,337.5
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,16,1'31.480,,18.515,26.251,22.401,24.313,335.4
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,17,1'31.436,,18.56,26.267,22.338,24.271,335.4
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,18,1'31.824,,18.646,26.402,22.386,24.39,335.4
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,19,1'32.118,,18.667,26.33,22.655,24.466,335.4
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,20,1'32.310,,18.727,26.46,22.557,24.566,332.3
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,21,1'32.266,,18.769,26.434,22.654,24.409,333.3
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,22,1'32.607,,18.88,26.468,22.711,24.548,331.2
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,23,1'32.680,,18.876,26.514,22.74,24.55,331.2
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,24,1'32.726,,18.854,26.57,22.718,24.584,330.2
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,25,1'34.156,,19.274,27.054,22.943,24.885,324.3
+89,Jorge MARTIN,Aprilia Racing,Aprilia,Soft,Medium,26,1'34.665,,19.333,27.112,22.831,25.389,322.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,1,1'34.422,,20.747,26.721,22.653,24.301,308.5
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,2,1'31.856,,18.537,26.307,22.608,24.404,321.4
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,3,1'31.236,,18.53,26.271,22.281,24.154,324.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,4,1'31.129,,18.489,26.135,22.28,24.225,331.2
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,5,1'31.367,,18.455,26.164,22.497,24.251,332.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,6,1'31.295,,18.523,26.3,22.362,24.11,328.2
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,7,1'31.415,,18.549,26.23,22.385,24.251,328.2
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,8,1'31.468,,18.535,26.284,22.372,24.277,335.4
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,9,1'31.366,,18.668,26.234,22.263,24.201,328.2
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,10,1'31.150,,18.581,26.065,22.272,24.232,334.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,11,1'31.575,,18.696,26.125,22.442,24.312,333.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,12,1'31.435,,18.453,26.244,22.42,24.318,332.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,13,1'31.678,,18.559,26.283,22.498,24.338,330.2
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,14,1'31.731,,18.561,26.413,22.468,24.289,336.4
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,15,1'31.490,,18.53,26.26,22.386,24.314,334.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,16,1'31.647,,18.464,26.367,22.475,24.341,327.2
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,17,1'31.638,,18.579,26.228,22.407,24.424,328.2
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,18,1'31.966,,18.566,26.331,22.54,24.529,332.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,19,1'32.015,,18.549,26.384,22.606,24.476,331.2
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,20,1'32.419,,18.651,26.496,22.647,24.625,328.2
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,21,1'32.232,,18.645,26.614,22.554,24.419,331.2
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,22,1'32.099,,18.732,26.382,22.535,24.45,333.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,23,1'32.488,,18.709,26.585,22.646,24.548,332.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,24,1'32.450,,18.744,26.668,22.591,24.447,332.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,25,1'32.417,,18.734,26.48,22.618,24.585,334.3
+79,Ai OGURA,Trackhouse MotoGP Team,Aprilia,Soft,Medium,26,1'32.697,,18.829,26.592,22.547,24.729,333.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,1,1'33.113,,20.144,26.31,22.513,24.146,320.4
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,2,1'31.329,,18.72,26.116,22.495,23.998,322.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,3,1'31.200,,18.634,26.106,22.231,24.229,328.2
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,4,1'31.109,,18.605,26.109,22.213,24.182,329.2
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,5,1'31.016,,18.61,26.117,22.201,24.088,325.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,6,1'31.065,,18.614,26.066,22.225,24.16,330.2
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,7,1'31.055,,18.605,26.071,22.192,24.187,332.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,8,1'31.313,,18.618,26.158,22.288,24.249,327.2
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,9,1'31.167,,18.636,26.023,22.283,24.225,334.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,10,1'31.569,,18.694,26.156,22.441,24.278,329.2
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,11,1'31.749,,18.625,26.197,22.527,24.4,325.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,12,1'31.552,,18.566,26.084,22.507,24.395,331.2
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,13,1'31.675,,18.602,26.17,22.472,24.431,334.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,14,1'31.603,,18.612,26.125,22.543,24.323,333.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,15,1'31.638,,18.562,26.183,22.43,24.463,334.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,16,1'31.777,,18.585,26.24,22.472,24.48,333.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,17,1'31.938,,18.628,26.267,22.526,24.517,331.2
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,18,1'32.138,,18.681,26.39,22.546,24.521,334.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,19,1'32.587,,18.731,26.352,22.572,24.932,332.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,20,1'32.517,,18.724,26.547,22.592,24.654,323.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,21,1'32.455,,18.808,26.314,22.734,24.599,333.3
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,22,1'32.702,,18.759,26.595,22.852,24.496,328.2
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,23,1'32.684,,18.867,26.545,22.723,24.549,329.2
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,24,1'33.346,,18.83,27.108,22.725,24.683,330.2
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,25,1'33.235,,18.916,26.732,22.869,24.718,329.2
+49,Fabio DI GIANNANTONIO,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,26,1'35.583,,19.323,27.888,23.024,25.348,308.5
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,1,1'33.900,,20.662,26.532,22.505,24.201,305.9
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,2,1'31.818,,18.588,26.43,22.623,24.177,323.3
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,3,1'31.088,,18.518,26.141,22.344,24.085,322.3
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,4,1'31.269,,18.572,26.188,22.353,24.156,321.4
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,5,1'31.722,,18.518,26.524,22.479,24.201,331.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,6,1'31.286,,18.536,26.29,22.354,24.106,329.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,7,1'31.282,,18.544,26.249,22.407,24.082,328.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,8,1'31.382,,18.515,26.229,22.312,24.326,332.3
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,9,1'31.326,,18.568,26.155,22.431,24.172,332.3
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,10,1'31.312,,18.514,26.157,22.387,24.254,334.3
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,11,1'31.619,,18.565,26.225,22.464,24.365,331.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,12,1'31.496,,18.531,26.264,22.285,24.416,330.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,13,1'31.555,,18.486,26.233,22.453,24.383,334.3
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,14,1'31.661,,18.628,26.281,22.393,24.359,331.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,15,1'31.714,,18.587,26.357,22.389,24.381,331.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,16,1'32.171,,18.535,26.581,22.67,24.385,331.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,17,1'32.006,,18.668,26.448,22.429,24.461,331.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,18,1'32.194,,18.598,26.401,22.641,24.554,333.3
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,19,1'32.112,,18.59,26.316,22.614,24.592,336.4
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,20,1'32.347,,18.667,26.487,22.629,24.564,334.3
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,21,1'32.511,,18.704,26.572,22.718,24.517,323.3
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,22,1'32.788,,18.793,26.66,22.841,24.494,327.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,23,1'32.919,,18.74,26.646,22.905,24.628,335.4
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,24,1'33.043,,18.825,26.679,22.894,24.645,326.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,25,1'33.437,,18.918,26.767,22.933,24.819,330.2
+33,Brad BINDER,Red Bull KTM Factory Racing,Ktm,Soft,Medium,26,1'33.675,,18.946,26.829,22.873,25.027,325.3
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,1,1'36.063,,21.046,27.57,22.975,24.472,293.4
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,2,1'32.061,,18.686,26.533,22.704,24.138,312.1
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,3,1'32.301,,18.695,26.694,22.683,24.229,315.7
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,4,1'32.138,,18.668,26.327,22.668,24.475,328.2
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,5,1'31.936,,18.78,26.523,22.366,24.267,307.6
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,6,1'31.508,,18.664,26.27,22.409,24.165,321.4
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,7,1'31.502,,18.576,26.301,22.33,24.295,330.2
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,8,1'31.449,,18.638,26.323,22.333,24.155,325.3
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,9,1'31.366,,18.558,26.194,22.368,24.246,331.2
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,10,1'31.145,,18.613,26.136,22.219,24.177,333.3
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,11,1'31.211,,18.568,26.163,22.44,24.04,333.3
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,12,1'31.391,,18.526,26.159,22.35,24.356,332.3
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,13,1'31.486,,18.534,26.252,22.393,24.307,333.3
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,14,1'31.687,,18.617,26.354,22.419,24.297,327.2
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,15,1'31.963,,18.627,26.562,22.454,24.32,313
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,16,1'31.869,,18.675,26.395,22.47,24.329,322.3
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,17,1'31.792,,18.531,26.319,22.43,24.512,332.3
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,18,1'31.927,,18.643,26.39,22.47,24.424,332.3
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,19,1'32.014,,18.643,26.467,22.478,24.426,332.3
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,20,1'31.810,,18.703,26.255,22.445,24.407,332.3
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,21,1'32.198,,18.731,26.489,22.603,24.375,331.2
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,22,1'32.665,,18.979,26.584,22.702,24.4,313.9
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,23,1'32.068,,18.646,26.507,22.48,24.435,331.2
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,24,1'32.821,,18.825,26.627,22.833,24.536,313.9
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,25,1'33.001,,18.746,26.583,22.946,24.726,330.2
+21,Franco MORBIDELLI,Pertamina Enduro VR46 Racing Team,Ducati,Soft,Medium,26,1'33.125,,18.95,26.594,22.826,24.755,326.2
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,1,1'34.020,,20.915,26.505,22.457,24.143,324.3
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,2,1'31.493,,18.571,26.202,22.61,24.11,318.5
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,3,1'31.050,,18.529,26.199,22.295,24.027,328.2
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,4,1'31.250,,18.605,26.151,22.355,24.139,327.2
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,5,1'31.801,,18.579,26.617,22.434,24.171,317.6
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,6,1'31.139,,18.587,26.157,22.287,24.108,337.5
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,7,1'31.283,,18.576,26.314,22.347,24.046,329.2
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,8,1'31.213,,18.504,26.238,22.367,24.104,334.3
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,9,1'31.496,,18.519,26.341,22.483,24.153,333.3
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,10,1'31.285,,18.549,26.132,22.384,24.22,333.3
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,11,1'31.629,,18.623,26.296,22.428,24.282,328.2
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,12,1'31.505,,18.564,26.192,22.33,24.419,333.3
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,13,1'31.461,,18.515,26.225,22.391,24.33,335.4
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,14,1'31.608,,18.56,26.309,22.428,24.311,330.2
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,15,1'31.638,,18.563,26.252,22.519,24.304,334.3
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,16,1'31.757,,18.603,26.273,22.454,24.427,333.3
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,17,1'31.953,,18.586,26.402,22.485,24.48,332.3
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,18,1'32.082,,18.65,26.398,22.529,24.505,332.3
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,19,1'32.925,,18.716,26.827,22.725,24.657,331.2
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,20,1'32.429,,18.723,26.569,22.594,24.543,331.2
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,21,1'32.491,,18.739,26.548,22.665,24.539,329.2
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,22,1'32.671,,18.858,26.663,22.644,24.506,335.4
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,23,1'32.642,,18.789,26.651,22.611,24.591,332.3
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,24,1'33.168,,18.908,26.76,22.692,24.808,327.2
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,25,1'34.219,,19.097,27.356,22.969,24.797,330.2
+63,Francesco BAGNAIA,Ducati Lenovo Team,Ducati,Soft,Medium,26,1'34.402,,19.157,27.127,22.885,25.233,325.3
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,1,1'34.648,,20.597,27.148,22.589,24.314,303.3
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,2,1'31.823,,18.626,26.375,22.636,24.186,317.6
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,3,1'31.403,,18.637,26.285,22.291,24.19,320.4
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,4,1'31.209,,18.542,26.239,22.277,24.151,322.3
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,5,1'31.337,,18.538,26.173,22.342,24.284,332.3
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,6,1'31.455,,18.539,26.219,22.424,24.273,322.3
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,7,1'31.415,,18.572,26.158,22.467,24.218,330.2
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,8,1'31.190,,18.593,26.158,22.268,24.171,335.4
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,9,1'31.372,,18.551,26.274,22.335,24.212,320.4
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,10,1'31.351,,18.632,26.213,22.312,24.194,331.2
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,11,1'31.783,,18.581,26.194,22.471,24.537,331.2
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,12,1'31.510,,18.549,26.229,22.363,24.369,329.2
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,13,1'31.676,,18.605,26.251,22.45,24.37,335.4
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,14,1'31.709,,18.679,26.325,22.423,24.282,335.4
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,15,1'31.572,,18.573,26.227,22.459,24.313,336.4
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,16,1'31.875,,18.595,26.354,22.496,24.43,336.4
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,17,1'31.816,,18.651,26.294,22.419,24.452,333.3
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,18,1'32.141,,18.637,26.406,22.552,24.546,330.2
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,19,1'32.233,,18.689,26.404,22.596,24.544,336.4
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,20,1'32.422,,18.702,26.426,22.61,24.684,333.3
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,21,1'32.648,,18.742,26.531,22.717,24.658,335.4
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,22,1'32.785,,18.805,26.58,22.776,24.624,331.2
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,23,1'32.883,,18.787,26.603,22.744,24.749,336.4
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,24,1'33.383,,18.925,26.827,22.886,24.745,332.3
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,25,1'33.633,,18.988,26.857,22.841,24.947,327.2
+10,Luca MARINI,Honda HRC Castrol,Honda,Soft,Medium,26,1'34.099,,19.144,27.002,22.877,25.076,313.9
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,1,1'34.852,,20.818,26.84,22.812,24.382,304.2
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,2,1'31.923,,18.602,26.47,22.645,24.206,316.7
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,3,1'31.584,,18.594,26.362,22.4,24.228,324.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,4,1'31.529,,18.692,26.284,22.426,24.127,324.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,5,1'31.363,,18.626,26.205,22.414,24.118,329.2
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,6,1'31.398,,18.664,26.185,22.376,24.173,331.2
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,7,1'31.412,,18.642,26.257,22.33,24.183,330.2
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,8,1'31.419,,18.643,26.159,22.418,24.199,333.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,9,1'31.520,,18.673,26.241,22.419,24.187,330.2
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,10,1'31.331,,18.626,26.178,22.344,24.183,332.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,11,1'31.596,,18.593,26.235,22.454,24.314,334.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,12,1'31.537,,18.641,26.208,22.398,24.29,331.2
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,13,1'31.698,,18.668,26.25,22.468,24.312,330.2
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,14,1'31.890,,18.728,26.35,22.516,24.296,331.2
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,15,1'31.971,,18.802,26.352,22.481,24.336,333.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,16,1'31.730,,18.625,26.352,22.407,24.346,334.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,17,1'31.879,,18.737,26.334,22.374,24.434,333.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,18,1'31.917,,18.706,26.326,22.444,24.441,333.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,19,1'32.093,,18.7,26.418,22.586,24.389,333.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,20,1'32.396,,18.775,26.329,22.758,24.534,334.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,21,1'32.442,,18.81,26.471,22.652,24.509,332.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,22,1'32.678,,18.842,26.561,22.673,24.602,332.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,23,1'33.021,,18.905,26.545,22.876,24.695,332.3
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,24,1'33.368,,18.969,26.634,22.889,24.876,329.2
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,25,1'33.419,,19.025,26.704,22.858,24.832,329.2
+5,Johann ZARCO,Castrol Honda LCR,Honda,Soft,Medium,26,1'34.207,,19.206,26.937,22.98,25.084,326.2
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,1,1'36.143,,21.421,27.398,22.888,24.436,300.8
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,2,1'32.192,,18.697,26.638,22.637,24.22,311.2
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,3,1'31.921,,18.583,26.587,22.443,24.308,327.2
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,4,1'32.083,,18.494,26.403,22.665,24.521,331.2
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,5,1'31.461,,18.729,26.148,22.342,24.242,319.5
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,6,1'31.929,,18.756,26.267,22.429,24.477,298.3
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,7,1'31.490,,18.609,26.241,22.337,24.303,322.3
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,8,1'31.999,,18.601,26.345,22.356,24.697,330.2
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,9,1'31.786,,18.708,26.48,22.378,24.22,310.3
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,10,1'31.632,,18.538,26.469,22.347,24.278,323.3
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,11,1'32.658,,18.547,26.404,23.23,24.477,335.4
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,12,1'32.003,,18.777,26.286,22.541,24.399,301.6
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,13,1'31.897,,18.708,26.419,22.442,24.328,332.3
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,14,1'31.861,,18.669,26.471,22.411,24.31,325.3
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,15,1'31.853,,18.645,26.335,22.462,24.411,321.4
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,16,1'31.812,,18.57,26.394,22.474,24.374,334.3
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,17,1'31.852,,18.561,26.416,22.529,24.346,334.3
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,18,1'31.950,,18.589,26.362,22.522,24.477,333.3
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,19,1'31.996,,18.67,26.411,22.527,24.388,335.4
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,20,1'32.266,,18.702,26.439,22.535,24.59,335.4
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,21,1'32.719,,18.802,26.71,22.766,24.441,318.5
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,22,1'32.429,,18.756,26.494,22.68,24.499,331.2
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,23,1'32.527,,18.705,26.629,22.685,24.508,327.2
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,24,1'32.576,,18.736,26.629,22.692,24.519,323.3
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,25,1'33.336,,18.77,26.805,23.1,24.661,325.3
+23,Enea BASTIANINI,Red Bull KTM Tech3,Ktm,Soft,Medium,26,1'33.285,,18.82,26.671,22.665,25.129,332.3
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,1,1'35.021,,20.976,26.948,22.667,24.43,305
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,2,1'31.986,,18.654,26.488,22.666,24.178,321.4
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,3,1'31.703,,18.555,26.326,22.411,24.411,324.3
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,4,1'31.522,,18.617,26.283,22.319,24.303,313.9
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,5,1'31.345,,18.564,26.187,22.335,24.259,326.2
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,6,1'31.367,,18.61,26.162,22.306,24.289,323.3
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,7,1'31.418,,18.643,26.155,22.332,24.288,328.2
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,8,1'31.455,,18.62,26.247,22.28,24.308,324.3
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,9,1'31.466,,18.591,26.193,22.382,24.3,325.3
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,10,1'31.519,,18.637,26.206,22.273,24.403,320.4
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,11,1'31.832,,18.687,26.246,22.526,24.373,329.2
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,12,1'32.167,,18.745,26.377,22.489,24.556,316.7
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,13,1'32.203,,18.747,26.413,22.513,24.53,331.2
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,14,1'32.032,,18.685,26.511,22.454,24.382,326.2
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,15,1'32.006,,18.637,26.488,22.44,24.441,330.2
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,16,1'32.278,,18.606,26.404,22.439,24.829,333.3
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,17,1'32.299,,18.727,26.528,22.398,24.646,321.4
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,18,1'32.377,,18.698,26.471,22.58,24.628,331.2
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,19,1'32.415,,18.639,26.553,22.479,24.744,330.2
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,20,1'32.248,,18.733,26.392,22.529,24.594,333.3
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,21,1'32.603,,18.769,26.492,22.671,24.671,333.3
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,22,1'32.904,,18.826,26.732,22.684,24.662,329.2
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,23,1'33.152,,18.97,26.795,22.739,24.648,332.3
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,24,1'33.269,,18.873,26.804,22.764,24.828,329.2
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,25,1'34.267,,19.051,27.168,23.186,24.862,327.2
+11,Diogo MOREIRA,Pro Honda LCR,Honda,Soft,Medium,26,1'34.102,,19.109,26.957,22.785,25.251,330.2
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,1,1'35.336,,21.121,27.042,22.838,24.335,297.5
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,2,1'32.119,,18.814,26.512,22.541,24.252,325.3
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,3,1'31.770,,18.753,26.377,22.448,24.192,330.2
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,4,1'31.605,,18.659,26.348,22.376,24.222,331.2
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,5,1'31.736,,18.763,26.335,22.424,24.214,331.2
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,6,1'31.775,,18.748,26.348,22.388,24.291,330.2
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,7,1'31.825,,18.766,26.415,22.406,24.238,329.2
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,8,1'31.882,,18.805,26.346,22.425,24.306,327.2
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,9,1'32.449,,18.861,26.402,22.574,24.612,324.3
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,10,1'32.584,,18.88,26.727,22.562,24.415,327.2
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,11,1'32.538,,18.858,26.381,22.671,24.628,326.2
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,12,1'32.419,,18.948,26.455,22.521,24.495,324.3
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,13,1'32.324,,18.896,26.465,22.489,24.474,329.2
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,14,1'32.409,,18.907,26.552,22.506,24.444,325.3
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,15,1'32.755,,18.967,26.641,22.581,24.566,325.3
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,16,1'32.464,,18.862,26.607,22.533,24.462,324.3
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,17,1'33.000,,19.019,26.812,22.595,24.574,322.3
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,18,1'32.749,,19.055,26.685,22.467,24.542,319.5
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,19,1'33.506,,19.103,26.639,22.625,25.139,319.5
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,20,1'32.750,,19.107,26.613,22.606,24.424,320.4
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,21,1'32.976,,19.041,26.596,22.863,24.476,321.4
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,22,1'32.681,,19.023,26.663,22.618,24.377,324.3
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,23,1'32.839,,18.992,26.658,22.637,24.552,323.3
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,24,1'32.793,,19.03,26.631,22.645,24.487,323.3
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,25,1'32.747,,18.912,26.684,22.632,24.519,324.3
+20,Fabio QUARTARARO,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,26,1'33.062,,18.931,26.679,22.725,24.727,324.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,1,1'35.593,,21.055,27.24,22.87,24.428,302.5
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,2,1'32.295,,18.708,26.48,22.624,24.483,313.9
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,3,1'31.626,,18.65,26.367,22.357,24.252,323.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,4,1'32.880,,18.738,26.204,23.277,24.661,327.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,5,1'31.902,,18.789,26.363,22.426,24.324,313
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,6,1'32.238,,18.817,26.521,22.493,24.407,328.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,7,1'31.729,,18.796,26.215,22.41,24.308,330.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,8,1'31.929,,18.865,26.231,22.475,24.358,326.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,9,1'31.926,,18.876,26.264,22.378,24.408,326.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,10,1'32.254,,18.865,26.363,22.566,24.46,325.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,11,1'32.253,,18.907,26.298,22.621,24.427,324.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,12,1'32.311,,18.917,26.384,22.523,24.487,322.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,13,1'32.396,,18.87,26.437,22.554,24.535,323.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,14,1'32.469,,18.815,26.545,22.546,24.563,323.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,15,1'32.480,,18.847,26.48,22.626,24.527,327.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,16,1'32.965,,18.825,26.526,22.939,24.675,326.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,17,1'32.846,,18.816,26.808,22.552,24.67,324.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,18,1'32.698,,18.863,26.565,22.612,24.658,324.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,19,1'32.842,,18.912,26.538,22.719,24.673,327.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,20,1'32.949,,18.954,26.587,22.754,24.654,321.4
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,21,1'32.990,,18.967,26.599,22.734,24.69,328.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,22,1'32.926,,19.021,26.61,22.722,24.573,322.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,23,1'32.927,,18.939,26.562,22.766,24.66,327.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,24,1'32.869,,18.965,26.516,22.676,24.712,326.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,25,1'33.014,,18.917,26.639,22.719,24.739,326.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,26,1'33.918,,19,26.942,22.916,25.06,320.4
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,1,1'35.915,,21.198,27.26,22.863,24.594,320.4
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,2,1'32.962,,18.717,26.631,23.043,24.571,327.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,3,1'33.373,,18.723,26.846,22.63,25.174,322.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,4,1'33.681,,18.888,27.681,22.69,24.422,333.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,5,1'31.935,,18.693,26.335,22.658,24.249,332.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,6,1'31.820,,18.764,26.284,22.462,24.31,333.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,7,1'31.566,,18.679,26.302,22.369,24.216,332.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,8,1'31.794,,18.713,26.313,22.502,24.266,331.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,9,1'31.535,,18.688,26.264,22.393,24.19,332.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,10,1'32.036,,18.61,26.268,22.503,24.655,332.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,11,1'31.882,,18.59,26.415,22.546,24.331,332.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,12,1'31.833,,18.671,26.368,22.383,24.411,333.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,13,1'33.448,,18.602,27.712,22.666,24.468,334.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,14,1'32.156,,18.85,26.496,22.444,24.366,331.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,15,1'31.991,,18.736,26.49,22.431,24.334,333.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,16,1'32.158,,18.632,26.445,22.655,24.426,333.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,17,1'32.846,,18.746,26.804,22.594,24.702,330.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,18,1'33.099,,18.899,26.803,22.666,24.731,330.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,19,1'35.591,,18.743,28.718,23.257,24.873,331.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,20,1'33.184,,18.861,26.701,22.878,24.744,330.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,21,1'32.659,,18.818,26.427,22.933,24.481,333.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,22,1'32.955,,18.757,26.739,22.72,24.739,332.3
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,23,1'33.032,,18.781,26.594,22.782,24.875,330.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,24,1'32.837,,18.907,26.523,22.805,24.602,329.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,25,1'32.710,,18.802,26.542,22.729,24.637,330.2
+42,Alex RINS,Monster Energy Yamaha MotoGP Team,Yamaha,Soft,Medium,26,1'33.817,,18.878,26.944,22.779,25.216,329.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,1,1'36.334,,21.694,27.235,22.9,24.505,283.4
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,2,1'32.409,,18.808,26.538,22.747,24.316,319.5
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,3,1'32.261,,18.725,26.771,22.541,24.224,318.5
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,4,1'32.137,,18.69,26.556,22.581,24.31,333.3
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,5,1'31.906,,18.751,26.427,22.572,24.156,329.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,6,1'32.002,,18.817,26.392,22.547,24.246,329.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,7,1'31.882,,18.801,26.351,22.503,24.227,327.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,8,1'31.945,,18.821,26.364,22.488,24.272,329.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,9,1'32.170,,18.808,26.485,22.469,24.408,324.3
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,10,1'32.108,,18.817,26.458,22.527,24.306,329.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,11,1'32.254,,18.884,26.35,22.637,24.383,329.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,12,1'32.119,,18.806,26.398,22.519,24.396,327.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,13,1'32.249,,18.847,26.468,22.571,24.363,329.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,14,1'32.556,,18.892,26.634,22.664,24.366,318.5
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,15,1'32.624,,19.019,26.581,22.576,24.448,328.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,16,1'32.763,,18.967,26.628,22.692,24.476,326.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,17,1'32.786,,18.911,26.639,22.557,24.679,328.2
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,18,1'33.097,,19.012,26.711,22.66,24.714,325.3
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,19,1'33.183,,19,26.686,22.755,24.742,319.5
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,20,1'33.204,,19.059,26.651,22.788,24.706,324.3
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,21,1'34.087,,19.27,26.923,23.127,24.767,325.3
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,22,1'33.539,,19.117,26.844,22.86,24.718,325.3
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,23,1'33.690,,19.101,26.843,22.899,24.847,325.3
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,24,1'33.815,,19.144,26.953,22.913,24.805,317.6
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,25,1'34.077,,19.159,26.998,23.008,24.912,325.3
+7,Toprak RAZGATLIOGLU,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,26,1'34.267,,19.225,27.038,22.953,25.051,323.3
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,1,1'35.716,,21.222,27.419,22.799,24.276,288.7
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,2,1'32.017,,18.721,26.469,22.658,24.169,318.5
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,3,1'32.249,,18.728,26.817,22.43,24.274,326.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,4,1'31.689,,18.708,26.326,22.398,24.257,326.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,5,1'31.808,,18.771,26.345,22.504,24.188,325.3
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,6,1'31.845,,18.68,26.436,22.424,24.305,331.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,7,1'31.987,,18.777,26.28,22.41,24.52,328.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,8,1'32.270,,18.803,26.623,22.489,24.355,329.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,9,1'32.089,,18.817,26.47,22.409,24.393,323.3
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,10,1'31.897,,18.728,26.336,22.428,24.405,328.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,11,1'32.397,,18.776,26.395,22.644,24.582,328.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,12,1'32.635,,18.816,26.559,22.697,24.563,321.4
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,13,1'32.542,,18.835,26.448,22.659,24.6,328.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,14,1'32.455,,18.866,26.529,22.575,24.485,328.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,15,1'32.535,,18.878,26.493,22.559,24.605,329.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,16,1'32.989,,18.925,26.731,22.663,24.67,327.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,17,1'32.811,,18.915,26.628,22.58,24.688,328.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,18,1'33.500,,18.906,26.869,22.841,24.884,328.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,19,1'33.148,,18.989,26.624,22.767,24.768,329.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,20,1'33.577,,19.021,26.69,22.871,24.995,327.2
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,21,1'34.348,,19.268,27.05,22.944,25.086,325.3
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,22,1'33.688,,19.144,26.849,22.834,24.861,324.3
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,23,1'34.078,,19.142,26.982,22.922,25.032,323.3
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,24,1'34.886,,19.317,27.159,23.108,25.302,322.3
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,25,1'36.966,,19.865,28.014,23.311,25.776,318.5
+43,Jack MILLER,Prima Pramac Yamaha MotoGP,Yamaha,Soft,Medium,26,1'37.996,,20.391,28.221,23.485,25.899,311.2
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,1,1'37.007,,21.644,27.692,22.925,24.746,274.8
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,2,1'33.090,,18.95,26.839,22.728,24.573,312.1
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,3,1'32.969,,18.91,26.913,22.582,24.564,315.7
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,4,1'33.505,,19.007,27,22.824,24.674,322.3
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,5,1'33.075,,18.935,27.005,22.607,24.528,319.5
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,6,1'33.612,,18.932,27.346,22.609,24.725,326.2
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,7,1'32.943,,19.008,26.724,22.686,24.525,320.4
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,8,1'32.942,,18.93,26.772,22.609,24.631,322.3
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,9,1'32.888,,18.975,26.684,22.466,24.763,324.3
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,10,1'32.800,,18.874,26.603,22.596,24.727,326.2
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,11,1'33.671,,18.974,26.63,23.477,24.59,324.3
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,12,1'32.856,,18.958,26.641,22.595,24.662,323.3
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,13,1'33.039,,19.057,26.74,22.645,24.597,320.4
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,14,1'33.226,,19.018,26.812,22.658,24.738,320.4
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,15,1'33.835,,19.495,26.9,22.695,24.745,322.3
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,16,1'33.274,,18.982,26.791,22.756,24.745,321.4
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,17,1'33.313,,19.126,26.784,22.71,24.693,323.3
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,18,1'33.622,,19.075,26.926,22.755,24.866,325.3
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,19,1'34.082,,19.071,26.849,23.168,24.994,323.3
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,20,1'34.010,,19.191,27.077,22.906,24.836,323.3
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,21,1'34.147,,19.264,26.996,22.96,24.927,319.5
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,22,1'34.328,,19.166,27.308,22.938,24.916,320.4
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,23,1'34.717,,19.357,27.224,23.08,25.056,319.5
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,24,1'35.109,,19.494,27.42,23.077,25.118,310.3
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,25,1'35.209,,19.598,27.455,23.002,25.154,305
+51,Michele PIRRO,Ducati Lenovo Team,Ducati,Soft,Medium,26,1'36.599,,20.073,27.827,23.271,25.428,292.6
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,1,1'33.621,,20.486,26.466,22.506,24.163,313.9
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,2,1'31.573,,18.687,26.21,22.477,24.199,315.7
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,3,1'31.021,,18.568,26.089,22.212,24.152,329.2
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,4,1'30.935,,18.57,26.014,22.255,24.096,327.2
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,5,1'30.995,,18.57,26.11,22.242,24.073,325.3
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,6,1'31.074,,18.624,26.125,22.24,24.085,335.4
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,7,1'31.017,,18.599,26.102,22.183,24.133,329.2
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,8,1'31.101,,18.592,26.141,22.248,24.12,332.3
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,9,1'31.295,,18.603,26.16,22.309,24.223,331.2
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,10,1'31.579,,18.69,26.283,22.319,24.287,330.2
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,11,1'31.715,,18.551,26.216,22.437,24.511,328.2
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,12,1'31.500,,18.567,26.218,22.342,24.373,334.3
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,13,1'31.727,,18.739,26.218,22.355,24.415,336.4
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,14,1'31.724,,18.616,26.228,22.522,24.358,335.4
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,15,1'31.611,,18.641,26.223,22.358,24.389,336.4
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,16,1'31.810,,18.647,26.307,22.482,24.374,335.4
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,17,1'31.986,,18.664,26.388,22.435,24.499,334.3
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,18,1'31.847,,18.641,26.348,22.392,24.466,335.4
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,19,1'32.320,,18.755,26.407,22.525,24.633,336.4
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,20,1'32.120,,18.765,26.297,22.527,24.531,332.3
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,21,1'32.582,,18.852,26.452,22.689,24.589,332.3
+36,Joan MIR,Honda HRC Castrol,Honda,Soft,Medium,22,1'41.450,,18.973,26.589,26.619,29.269,329.2
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,1,1'33.529,,20.263,26.399,22.51,24.357,309.4
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,2,1'31.507,,18.694,26.183,22.498,24.132,322.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,3,1'31.080,,18.502,26.162,22.248,24.168,329.2
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,4,1'31.298,,18.539,26.36,22.294,24.105,325.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,5,1'31.213,,18.616,26.153,22.307,24.137,323.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,6,1'31.293,,18.565,26.161,22.382,24.185,329.2
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,7,1'31.345,,18.574,26.251,22.299,24.221,329.2
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,8,1'31.685,,18.555,26.285,22.253,24.592,332.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,9,1'31.220,,18.605,26.122,22.276,24.217,332.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,10,1'31.294,,18.516,26.211,22.266,24.301,332.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,11,1'31.559,,18.52,26.202,22.4,24.437,333.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,12,1'31.300,,18.505,26.214,22.241,24.34,334.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,13,1'31.551,,18.487,26.231,22.321,24.512,334.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,14,1'31.681,,18.527,26.372,22.38,24.402,331.2
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,15,1'31.741,,18.561,26.456,22.33,24.394,334.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,16,1'31.807,,18.611,26.306,22.403,24.487,334.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,17,1'31.894,,18.563,26.379,22.391,24.561,333.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,18,1'32.097,,18.676,26.462,22.403,24.556,333.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,19,1'32.442,,18.667,26.488,22.464,24.823,333.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,20,1'32.584,,18.776,26.54,22.575,24.693,331.2
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,21,1'33.043,,18.793,26.948,22.691,24.611,334.3
+73,Alex MARQUEZ,BK8 Gresini Racing MotoGP,Ducati,Soft,Medium,22,,,18.78,,,,
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,1,1'32.921,,19.636,26.328,22.607,24.35,335.4
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,2,1'31.158,,18.62,26.042,22.405,24.091,339.6
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,3,1'31.085,,18.477,26.115,22.412,24.081,338.5
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,4,1'31.368,,18.419,26.347,22.325,24.277,339.6
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,5,1'30.944,,18.522,26.078,22.301,24.043,337.5
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,6,1'30.975,,18.491,26.166,22.235,24.083,331.2
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,7,1'30.864,,18.499,26.073,22.189,24.103,335.4
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,8,1'30.979,,18.511,26.131,22.266,24.071,333.3
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,9,1'31.162,,18.601,26.194,22.253,24.114,333.3
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,10,1'31.529,,18.567,26.178,22.563,24.221,324.3
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,11,1'31.402,,18.535,26.203,22.382,24.282,334.3
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,12,1'31.194,,18.517,26.065,22.291,24.321,335.4
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,13,1'31.320,,18.523,26.168,22.342,24.287,339.6
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,14,1'31.358,,18.561,26.338,22.328,24.131,338.5
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,15,1'31.403,,18.543,26.126,22.509,24.225,338.5
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,16,1'31.134,,18.492,26.075,22.318,24.249,339.6
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,17,1'31.159,,18.465,26.109,22.298,24.287,338.5
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,18,1'31.156,,18.509,26.055,22.278,24.314,339.6
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,19,1'31.381,,18.519,26.129,22.381,24.352,339.6
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,20,1'31.421,,18.627,26.088,22.398,24.308,339.6
+93,Marc MARQUEZ,Ducati Lenovo Team,Ducati,Soft,Medium,21,,,18.562,26.839,,,337.5
